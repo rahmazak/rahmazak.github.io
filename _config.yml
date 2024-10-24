@@ -63,7 +63,7 @@ author:
   bio    : "PhD candidate in Bioengineering. Interested in synthetic biology and electrogenetics"
   links:
     - label: "LinkedIn"
-      icon: "fas fa fa-linkedin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fauziah-rahma-zakaria-a1767512a"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
